@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1ABCF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+SEJAL+MANKAR.+.+.+.+.+.)](https://git.io/typing-svg)
-<h3 align="center">A passionate developer from India building web & AI-powered projects</h3>
+<h3 align="center">Computer Science Engineering (AI & ML) Student | Web Developer | AI & Cloud Computing Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sejalmank&label=Profile%20views&color=0e75b6&style=flat" alt="sejalmank" />
