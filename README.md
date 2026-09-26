@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile.gif" width="800" alt="Sejal Mankar">
-</p>
-
 <h1 align="center">Hi 👋, I'm SEJAL MANKAR</h1>
 <h3 align="center">A passionate developer from India building web & AI-powered projects</h3>
 
